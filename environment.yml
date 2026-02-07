@@ -1,0 +1,16 @@
+name: beer_review_nlp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - spacy
+  - pandas
+  - ipykernel
+  - jupyter
+  - nltk
+  - scikit-learn
+  - datasets
+  - accelerate
+  - transformers
+prefix: /Users/chengsun/miniconda3/envs/beer_review_nlp
